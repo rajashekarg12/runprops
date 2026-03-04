@@ -8,12 +8,12 @@
 
 <server>
   <id>anypoint-exchange-v3</id>
-  <username>Raj0909</username>
+  <username>spadmin</username>
   <password>Flex@1048</password>
 </server>
 <server>
     <id>MuleRepository</id>
-    <username>Raj0909</username>
+    <username>spadmin</username>
     <password>Flex@1048</password>
   </server>
   </servers>
@@ -22,7 +22,7 @@
     <profile>
       <id>anypoint</id>
       <properties>
-        <anypoint.orgId>569be4f5-6a9e-4030-9c44-26f4bfd1123a</anypoint.orgId>
+        <anypoint.orgId>7d8fdb77-3b25-48d1-b374-d5e4a81a4f02</anypoint.orgId>
         <anypoint.env>Sandbox</anypoint.env>
       </properties>
     </profile>
